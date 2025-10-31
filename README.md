@@ -1,24 +1,87 @@
-<h1 align="center">Hi 👋, I'm Anisha Poudel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi there 👋, I'm Anisha Poudel!</h1>
+<h3 align="center">💻 Frontend Developer | Passionate about crafting user-friendly web experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishap123&label=Profile%20views&color=0e75b6&style=flat" alt="anishap123" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishap123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on **LMS**
+---
 
-- 🌱 I’m currently learning **React Js**
+### 👩‍💻 About Me
+I'm a **Frontend Developer** from **Nepal**, currently based in **Belgium**, with over **3 years of professional experience** in designing and developing responsive, interactive web applications.  
+I’m passionate about **building modern, scalable, and aesthetic web interfaces** using **React**, **Next.js**, and **Tailwind CSS**.
 
-- 💬 Ask me about **react**
+- 🔭 Currently working on: **Learning Management System (LMS)**
+- 🌱 Currently learning: **React.js & Next.js**
+- 💬 Ask me about: **Frontend Development | React | Tailwind**
+- 🌍 Portfolio: [anisha.acetechnepal.com](http://anisha.acetechnepal.com/)
+- 📫 How to reach me: **anishapoudel570@gmail.com**
 
-- 📫 How to reach me **anishapoudel.com.np**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills
+
+**Frontend:**  
+HTML | CSS | JavaScript | React.js | Next.js | Tailwind CSS | Bootstrap  
+
+**Backend:**  
+Django | Python | Node.js | MySQL  
+
+**Design Tools:**  
+Figma | Photoshop | Canva  
+
+**Version Control:**  
+Git | GitHub  
+
+---
+
+### 💼 Work Experience
+
+**Frontend Developer** — *AceTech Media & Technology Pvt. Ltd.* (2022–2024)  
+→ Developed and maintained multiple websites with React and Next.js.  
+→ Focused on creating intuitive, responsive UIs and performed testing and code reviews.  
+
+**Frontend Developer** — *J2-D2 (UK/India)* (2023–2024)  
+→ Designed and developed a responsive healthcare project using React Query and Redux Toolkit.  
+→ Collaborated effectively with a remote international team.  
+
+**WordPress Developer** — *Dream Tech* (2022)  
+→ Built and launched multiple news portals and company portfolio websites.  
+
+**IT Officer** — *Gurukul Higher Secondary School* (2024)  
+→ Maintained academic records and created automated reports using Excel and Google Sheets.
+
+---
+
+### 🌱 Projects
+- 📱 **QR-based Self-Ordering System**  
+- 🧴 **Skin Care Inventory Management**  
+- 📚 **Book Store Billing System**  
+- 📰 **News Portal**  
+- 🏢 **Company Portfolio Websites**  
+- 🏥 **Hospital & Consultancy Websites**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
 <a href="https://twitter.com/@anishap29213390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anishap29213390" height="30" width="40" /></a>
 <a href="https://instagram.com/anishaa_poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishaa_poudel" height="30" width="40" /></a>
+<a href="https://github.com/anishap123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anishap123" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishap123&show_icons=true&locale=en&layout=compact" alt="anishap123" /></p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishap123&show_icons=true&theme=tokyonight" alt="Anisha's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishap123&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🌟 Fun Fact
+When I’m not coding, I love **drawing** and doing **nail art** — creativity fuels both my design and development skills! 🎨💅
 
