@@ -75,10 +75,7 @@ Git | GitHub
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishap123&show_icons=true&theme=tokyonight" alt="Anisha's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishap123&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anishap123&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true&count_private=true" alt="Anisha's GitHub stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishap123&layout=compact&theme=tokyonight&langs_count=6&hide=python,html,css&custom_title=Most%20Used%20Frontend%20Languages" alt="Top Languages" height="165" /> </p>
 
 ---
 
