@@ -14,7 +14,7 @@ I’m passionate about **building modern, scalable, and aesthetic web interfaces
 - 🔭 Currently working on: **Learning Management System (LMS)**
 - 🌱 Currently learning: **React.js & Next.js**
 - 💬 Ask me about: **Frontend Development | React | Tailwind**
-- 🌍 Portfolio: [anisha.acetechnepal.com](http://anisha.acetechnepal.com/)
+- 🌍 Portfolio: [anishapoudel.vercel.app](https://anishapoudel.vercel.app/)
 - 📫 How to reach me: **anishapoudel570@gmail.com**
 
 ---
